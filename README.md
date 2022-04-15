@@ -17,7 +17,7 @@ Contact InterSystems Learning Services Support with questions or feedback: onlin
 * [Docker desktop]( https://www.docker.com/products/docker-desktop)
 * Get the latest InterSystems IRIS for Health image for use in the Dockerfile: https://hub.docker.com/_/intersystems-iris-for-health  
 
-## To Run on Windows:  
+## To Run on Windows (PowerShell):  
 ```
 	git clone https://github.com/intersystems/quickstarts-hl7  
 	cd quickstarts-hl7  
