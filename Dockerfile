@@ -1,5 +1,6 @@
 ARG IMAGE=containers.intersystems.com/intersystems/irishealth-community:2021.1.0.215.0
 #ARG IMAGE=store/intersystems/irishealth-community:2020.3.0.221.0
+ARG IMAGE=intersystemsdc/irishealth-community
 
 FROM $IMAGE
 
