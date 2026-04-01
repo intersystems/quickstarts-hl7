@@ -15,7 +15,7 @@ Contact InterSystems Learning Services Support with questions or feedback: onlin
 
 ## Requirements:  
 * [Docker desktop]( https://www.docker.com/products/docker-desktop)
-* Get the latest InterSystems IRIS for Health image for use in the Dockerfile: https://hub.docker.com/_/intersystems-iris-for-health  
+* Get the latest InterSystems IRIS for Health image for use in the Dockerfile: https://hub.docker.com/r/intersystems/irishealth-ml-community   
 
 ## To Run on Windows (PowerShell):  
 ```
